@@ -1,0 +1,27 @@
+Ginu
+===========
+
+Advantages
+
+1. Attractive & ineractive header bar 
+2. It's a useful idea to have a "bulb" icon providing a short info about the dashboard.
+3. A color tone consistantly used throuout the dashboard graphs
+
+Disadvantage
+
+1. Genre based on installs need to be scrolled inorder to see whole heatmap
+
+
+Ravi
+============
+
+Advantages
+
+1. Main relavent informations stands out on home
+2. All graphs are interacting each other
+3. Single clear filter option is very useful
+
+Disadvantage
+
+1. We do not normally recommend to use Pie Chart
+
